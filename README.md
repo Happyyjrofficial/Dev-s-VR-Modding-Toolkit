@@ -1,6 +1,6 @@
 # Dev's VR Modding Toolkit
 
-**Version:** v1.01  
+**Version:** v1.5  
 **Support server:** [discord.gg/devtaggering](https://discord.gg/devtaggering)
 
 ---
